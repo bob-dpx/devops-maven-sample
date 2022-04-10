@@ -16,7 +16,7 @@ pipeline {
         REGISTRY = 'registry.cn-shanghai.aliyuncs.com'
         DOCKERHUB_NAMESPACE = 'k8stestd'
         GITHUB_ACCOUNT = 'bob-dpx'
-        APP_NAME = 'devops-java-sample'
+        APP_NAME = 'devops'
     }
 
     stages {
